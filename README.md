@@ -101,6 +101,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or suggestions, feel free to contact me:
 
-- **Email:** your.email@example.com
-- **GitHub:** [yourusername](https://github.com/yourusername)
-- **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)
+- **Email:** bilalahxmd@gmail.com
+- **GitHub:** [Lazygeniusbilal](https://github.com/Lazygeniusbilal)
+- **LinkedIn:** [Your Name](www.linkedin.com/in/mir-bilal-ahmed)
