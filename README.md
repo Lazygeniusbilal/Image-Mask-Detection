@@ -103,4 +103,4 @@ If you have any questions or suggestions, feel free to contact me:
 
 - **Email:** bilalahxmd@gmail.com
 - **GitHub:** [Lazygeniusbilal](https://github.com/Lazygeniusbilal)
-- **LinkedIn:** [Your Name](www.linkedin.com/in/mir-bilal-ahmed)
+- **LinkedIn:** [Bilal Ahmed](www.linkedin.com/in/mir-bilal-ahmed)
